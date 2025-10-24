@@ -1,0 +1,6 @@
+java.lang.ArithmeticException: / by zero
+	at com.jtc.exp.D.m3(A45.java:44)
+	at com.jtc.exp.C.m2(A45.java:38)
+	at com.jtc.exp.B.m1(A45.java:32)
+	at com.jtc.exp.A.show(A45.java:26)
+	at com.jtc.exp.A45.main(A45.java:9)

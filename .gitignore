@@ -1,0 +1,15 @@
+.metadata/
+
+*.class
+
+bin/
+
+target/
+
+.settings/
+
+.project
+
+*.log
+
+
